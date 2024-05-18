@@ -1,3 +1,4 @@
 flet==0.22.*
 requests
 beautifulsoup4
+cryptography
